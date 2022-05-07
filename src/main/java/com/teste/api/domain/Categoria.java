@@ -16,6 +16,7 @@ import javax.persistence.OneToMany;
  *
  */
 
+
 @Entity
 public class Categoria implements Serializable 
 {	
