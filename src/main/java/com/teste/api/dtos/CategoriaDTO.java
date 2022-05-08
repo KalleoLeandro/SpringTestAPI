@@ -61,6 +61,4 @@ public class CategoriaDTO implements Serializable
 		this.descricao = descricao;
 	}
 	
-	
-	
 }
